@@ -1,2 +1,2 @@
-# Agro-diseae-Finder-System-AdFS-of-cauliflower
+# Agro-diseae-Finder-System-AdFS
 Cauliflower Dataset
